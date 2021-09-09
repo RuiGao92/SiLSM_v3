@@ -5,8 +5,6 @@ clear ;
 
 
 %% 
-
-
 %-----------------   Load Data matrix     -----------------%
 load('test.mat')
 %-----------------   Load Data matrix     -----------------%
